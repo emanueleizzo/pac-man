@@ -1,0 +1,4 @@
+- Correzione importante bug sugli incroci
+- Implementazione delle vite
+- Correzione sulla funzione reset
+- Modifiche minori
