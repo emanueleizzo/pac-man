@@ -12,7 +12,7 @@ The "requirements.txt" file contains all the commands to install the necessary l
 Use the following Google form to submit the CSV files: https://forms.gle/XXoT3cg3RQWr3ABJ6.
 Below are the links to Google Drive for the download of the stand-alone versions:
 - Basic version: https://drive.google.com/file/d/1YX6ntyKk_hVRJ9uk6MBgQfm1sD3w5wA1/view?usp=sharing
-- Version with CSV file creation: https://drive.google.com/file/d/1K84b2L-6ez0TzKAdQeYYmWMnI51Whzp2/view?usp=sharing
+- CSV file creation version: https://drive.google.com/file/d/1K84b2L-6ez0TzKAdQeYYmWMnI51Whzp2/view?usp=sharing
 - Agent version: WIP.
 
 (ITA)
